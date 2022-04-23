@@ -1,5 +1,6 @@
 
 .container{
+    margin: 0 auto;
     align-self: center;
     display: flex;
     flex-direction: row;
@@ -9,9 +10,9 @@
     background-color: white;
     
 }
-.title{
-    align-self: center;
-} 
+h1{
+    text-align: center;
+}
 .row1{
     background-color: aqua;
     width: 700px;
@@ -45,4 +46,5 @@
 }
 .link{
     margin: 10px;
+    text-align: center;
 }
